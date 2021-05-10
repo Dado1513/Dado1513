@@ -8,27 +8,31 @@
 ![Views](https://komarev.com/ghpvc/?username=Dado1513&color=brightgreen)
 </div>
 
+<img width="40%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dado1513&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-<img width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dado1513&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
-
-🎓 Third-year Ph.D student at the University of Genova (Italy)\
-💼 Mobile Security Enthusiast\
-💻 I love playing in CTF competitions [![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)
 
 
 
+🎓 Third-year Ph.D student at the University of Genova (Italy)
+
+💼 Mobile Security Enthusiast
+
+💻 I love playing in CTF competitions <!--[![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)-->
 
 
+<br>
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=6&layout=compact&theme=dark"/>
 <h3> 🛠 &nbsp;Skills </h3>
 
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?stylehttps=flat&logo=python)&nbsp;
 ![Android](https://shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
 ![AndroidReversing](https://shields.io/badge/-Android_Reversing-05122A?style=flat&logo=Android)&nbsp;
 ![iOSReversing](https://shields.io/badge/-iOS_Reversing-05122A?style=flat&logo=Apple)&nbsp;
+
+
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
@@ -37,11 +41,14 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 
+
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![AndroidStudio](https://shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Android)
 ![Linux](https://shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![MongoDB](https://shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDb)&nbsp;
+
 
 
 
