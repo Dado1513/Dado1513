@@ -44,10 +44,11 @@
 ![MongoDB](https://shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDb)&nbsp;
 
 
-![Github](https://github-profile-trophy.vercel.app/?username=Dado1513)
 
 <!--
 **Dado1513/Dado1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github](https://github-profile-trophy.vercel.app/?username=Dado1513)
+
 
 Here are some ideas to get you started:
 
