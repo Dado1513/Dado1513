@@ -24,7 +24,7 @@
 
 
 <br>
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=6&layout=compact&theme=dark"/>
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=6&layout=compact&theme=dark&exclude_repo=IoT-Security-awesome"/>
 <h3> 🛠 &nbsp;Skills </h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?stylehttps=flat&logo=python)&nbsp;
