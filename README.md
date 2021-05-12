@@ -18,7 +18,7 @@
 
 🎓 I’m currently a third-year Ph.D student at the University of Genova (Italy)
 
-💼 I am a Mobile and IoT Security Enthusiast
+💼 I'm a Mobile and IoT Security Enthusiast
 
 💻 I love playing in CTF competitions <!--[![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)-->
 
