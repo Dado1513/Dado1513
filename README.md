@@ -16,7 +16,7 @@
 
 
 
-🎓 I’m currently a third-year Ph.D student at the University of Genova (Italy)
+🎓 I’m currently a third-year Ph.D. student at the University of Genova (Italy)
 
 💼 I'm a Mobile and IoT Security Enthusiast
 
