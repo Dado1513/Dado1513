@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android_Reversing-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
-![iOS](https://img.shields.io/badge/iOS_Reversing-000000?style=flat&logo=ios&logoColor=white)&nbsp;
+<!--![iOS](https://img.shields.io/badge/iOS_Reversing-000000?style=flat&logo=ios&logoColor=white)&nbsp;-->
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
