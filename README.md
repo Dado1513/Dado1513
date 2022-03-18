@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I'm Davide Caputo 👋 </h1>
+<h1 align="center">  Hi, I'm Davide Caputo, Ph.D 👋 </h1>
 <!--  <h3 align="center">🚀 fullstack devlover 🚀</h3> I'm Davide, a third-year PhD Student at the University of Genova -->
 <div align="center">
   
@@ -13,14 +13,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
+💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
 
+🤩 Cybersecurity Enthusiast
 
-
-🎓 I’m currently a third-year Ph.D. student at the University of Genova (Italy) and Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
-
-💼 I'm a Mobile and IoT Security Enthusiast
-
-💻 I love playing in CTF competitions <!--[![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)-->
+💻 Lover of CTF competitions <!--[![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)-->
 
 
 <br>
