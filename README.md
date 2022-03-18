@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I'm Davide Caputo, Ph.D 👋 </h1>
+<h1 align="center">  Hi, I'm Davide Caputo, PhD 👋 </h1>
 <!--  <h3 align="center">🚀 fullstack devlover 🚀</h3> I'm Davide, a third-year PhD Student at the University of Genova -->
 <div align="center">
   
