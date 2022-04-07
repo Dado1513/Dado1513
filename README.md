@@ -13,7 +13,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com) & [OSCP](https://www.offensive-security.com/pwk-oscp/) Student
+💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
+
+🧑‍🎓 [OSCP](https://www.offensive-security.com/pwk-oscp/) Student
 
 🤩 Cybersecurity Enthusiast
 
