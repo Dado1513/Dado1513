@@ -4,7 +4,9 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dad01513)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davide-caputo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dave.caputo93@gmail.com)
+[![Twitter](https://img.shields.io/twitter/follow/dado_1513?style=social)](https://twitter.com/Dado_1513)
 ![Views](https://komarev.com/ghpvc/?username=Dado1513&color=brightgreen)
+
 </div>
 
 <div align="center">
