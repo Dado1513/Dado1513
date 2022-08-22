@@ -28,8 +28,8 @@
 <hr>
 
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dado1513&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=8&layout=compact&theme=dark&exclude_repo=IoT-Security-awesome"/>
+  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dado1513&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=8&layout=compact&theme=dark&exclude_repo=IoT-Security-awesome"/>
 </div>
 
 
