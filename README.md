@@ -17,8 +17,6 @@
 
 ```$ whoami```
 
- - ```💼 Cyber Security Engineer```
-
  - ```👨🏻‍💻 Cyber Security Enthusiast```
 
  - ```🎓 OSCP Student```
