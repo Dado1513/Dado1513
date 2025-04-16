@@ -1,4 +1,5 @@
 <h1 align="center">  <h1> Hi, I'm Davide Caputo, PhD 👋 </h1>
+
 <div align="center">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dad01513)
@@ -7,6 +8,21 @@
 ![Views](https://komarev.com/ghpvc/?username=Dado1513&color=brightgreen)
 
 </div>
+<div align="center">
+
+  ```
+/$$$$$$$                  /$$            /$$   /$$$$$$$   /$$    /$$$$$$ 
+| $$__  $$                | $$          /$$$$  | $$____/ /$$$$   /$$__  $$
+| $$  \ $$  /$$$$$$   /$$$$$$$  /$$$$$$|_  $$  | $$     |_  $$  |__/  \ $$
+| $$  | $$ |____  $$ /$$__  $$ /$$__  $$ | $$  | $$$$$$$  | $$     /$$$$$/
+| $$  | $$  /$$$$$$$| $$  | $$| $$  \ $$ | $$  |_____  $$ | $$    |___  $$
+| $$  | $$ /$$__  $$| $$  | $$| $$  | $$ | $$   /$$  \ $$ | $$   /$$  \ $$
+| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$//$$$$$$|  $$$$$$//$$$$$$|  $$$$$$/
+|_______/  \_______/ \_______/ \______/|______/ \______/|______/ \______/    
+
+```
+</div>
+
 
 <div align="center">
   <a href="https://app.hackthebox.com/profile/580421"> <img src="https://www.hackthebox.eu/badge/image/580421"  alt="Hack The Box">  </a>
@@ -16,7 +32,9 @@
 
 ```$ whoami```
 
- - ```👨🏻‍💻 Cyber Security Enthusiast```
+ - ```☣️ dado1513```
+  
+ - ```👨🏻‍💻 Penetration Tester and Cyber Security Enthusiast```
 
  - ```🎓 OSCP Student```
 
@@ -25,12 +43,12 @@
 
 
 <hr>
-
+<!--
 <div>
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dado1513&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dado1513&hide=html,Jupyter%20Notebook,PHP&langs_count=8&layout=compact&theme=dark&exclude_repo=IoT-Security-awesome"/>
 </div>
-
+-->
 
 
 
