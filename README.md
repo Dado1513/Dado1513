@@ -36,7 +36,7 @@
   
  - ```👨🏻‍💻 Penetration Tester and Cyber Security Enthusiast```
 
- - ```🎓 OSCP Student```
+ - ```🎓 OSCP ```
 
  - ```💻 CTF Lover```  <!--[![CTFtime](https://shields.io/badge/-CTF-05122A?style=flat&logo=CTF)](https://ctftime.org/user/28094)-->
 
